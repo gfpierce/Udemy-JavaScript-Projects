@@ -1,2 +1,2 @@
 # Udemy-JavaScript-Projects
-Projects from Udemy JavaScript course
+Projects from Jonas Schmedtmann's Udemy JavaScript course.
